@@ -40,4 +40,4 @@ This project implements and compares two approaches to binary Probit regression:
 
 ---
 
-📈 *This project was completed as part of a university course in Statistical Inference and Computation.*
+📈 *This project was completed as part of a university course in Statistics and Probability course.*
